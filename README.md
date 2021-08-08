@@ -1,24 +1,25 @@
+![header](resources/images/header.jpg)
 # Project Overview
 
 To analyze the New Yor Citi Bike program data in order to obtain valuable insights, and answer specific questions about the program. Present the results of the analysis to a non technical audience
 
 # Questions to answer
 
-- [] How many trips have been recorded total during the chosen period?
-- [] By what percentage has total ridership grown?
-- [] How has the proportion of short-term customers and annual subscribers changed?
-- [] What are the peak hours in which bikes are used during summer months?
-- [] What are the peak hours in which bikes are used during winter months?
-- [] Today, what are the top 10 stations in the city for starting a journey? (Based on data, why do you hypothesize these are the top locations?)
-- [] Today, what are the top 10 stations in the city for ending a journey? (Based on data, why?)
-- [] Today, what are the bottom 10 stations in the city for starting a journey? (Based on data, why?)
-- [] Today, what are the bottom 10 stations in the city for ending a journey (Based on data, why?)
-- [] Today, what is the gender breakdown of active participants (Male v. Female)?
-- [] How effective has gender outreach been in increasing female ridership over the timespan?
-- [] How does the average trip duration change by age?
-- [] What is the average distance in miles that a bike is ridden?
-- [] Which bikes (by ID) are most likely due for repair or inspection in the timespan?
-- [] How variable is the utilization by bike ID?
+- [X] How many trips have been recorded total during the chosen period?
+- [X] By what percentage has total ridership grown?
+- [X] How has the proportion of short-term customers and annual subscribers changed?
+- [X] What are the peak hours in which bikes are used during summer months?
+- [X] What are the peak hours in which bikes are used during winter months?
+- [X] Today, what are the top 10 stations in the city for starting a journey? (Based on data, why do you hypothesize these are the top locations?)
+- [X] Today, what are the top 10 stations in the city for ending a journey? (Based on data, why?)
+- [X] Today, what are the bottom 10 stations in the city for starting a journey? (Based on data, why?)
+- [X] Today, what are the bottom 10 stations in the city for ending a journey (Based on data, why?)
+- [X] Today, what is the gender breakdown of active participants (Male v. Female)?
+- [X] How effective has gender outreach been in increasing female ridership over the timespan?
+- [X] How does the average trip duration change by age?
+- [x] What is the average distance in miles that a bike is ridden?
+- [X] Which bikes (by ID) are most likely due for repair or inspection in the timespan?
+- [X] How variable is the utilization by bike ID?
 
 # Project approach
 
